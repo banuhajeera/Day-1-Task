@@ -1,0 +1,22 @@
+{
+    "name":"Hajeera Banu G",
+    "email":"hajeerabanu95@gmail.com",
+    "Blood Group":"O+ve",
+    "age":28,
+    "phonenumber":{
+        "phone1" :"6382563076",
+        "phone2": "9092488101"
+    },
+    "address":{
+        "addressLine1":"No.10 M.H Road 1st lane perambur chennai -11",
+        "state":"TamilNadu",
+        "city":"chennai"
+    },
+    "languagesknows":{
+        "email":"read and write",
+        "tamil":"read and write",
+        "hindi":"Only speak"
+    }
+
+
+}

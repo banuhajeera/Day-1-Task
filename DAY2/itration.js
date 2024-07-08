@@ -22,3 +22,10 @@ var val = {
 for (y in val) {
     console.log( y, '=' ,val[y]);
 }
+
+
+let score = [1, 2, 3, 4, 5, 6];
+score.forEach(function (value,index) {
+    console.log("element===>" ,value,index);
+
+})
