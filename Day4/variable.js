@@ -65,7 +65,7 @@ var bonusMoney = '10,0000'
 const Moneytemplate = `Hey ${name}, the ${bonusMoney}, is creadited to your account by the rummy circle`
 console.log(Moneytemplate);
 
-console.log("Hey" + name + ,'the' + bonusMoney+ ' is creadited to your account by the rummy circle')
+console.log("Hey" + name + 'the' + bonusMoney+ ' is creadited to your account by the rummy circle')
 
 
 
