@@ -109,3 +109,27 @@ var val = score.reduce((carry, call)=>{
 })
 
 console.log(val);
+
+// Find  IndexOf
+var score = [1, 6, 8, 65, 9]
+var res = -1;
+
+
+// console.log(score.indexOf(9));
+// console.log(score.indexOf(7));
+
+
+function IndexOf(arr = [], val = 0) {
+    for (let i = 0; i < arr.length; i++){
+        console.log(i);
+        if (arr[i] === val) {
+            res = i;  
+            break;
+        }
+        
+    }
+
+    return res;
+    
+}
+console.log(IndexOf(score,65));
