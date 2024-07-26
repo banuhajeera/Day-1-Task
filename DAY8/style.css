@@ -1,0 +1,35 @@
+
+/* Class selector  */
+/* .btn{
+border-radius: 5px;
+height: 40px;
+width: 100px;
+border: 90px;
+cursor: pointer;
+} */
+
+/*ELEMENT SELECTOR  */
+
+button {
+border-radius: 5px;
+height: 40px;
+width: 100px;
+cursor: pointer;
+border: 90px;
+color:white
+}
+
+.green{
+background-color: chartreuse;
+}
+.violet{
+background-color: violet;
+
+}
+#uniquebutton{
+ 
+    border: 1px dotted yellow;
+
+}
+
+
